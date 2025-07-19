@@ -101,6 +101,10 @@ img {
 
 /* FEATURES */
 .features-icon {
+  stroke: #0e6655;
+  width: 32px;
+  height: 32px;
+
 }
 
 .features-title {
