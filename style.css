@@ -153,6 +153,10 @@ img {
   border-radius: 12px;
 }
 
+.chair-target {
+  border-radius: 12px 12px 0 0;
+}
+
 h3 {
   margin-bottom: 24px;
   font-size: 20px;
