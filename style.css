@@ -98,6 +98,9 @@ h1 {
 img {
   width: 100%;
 }
+.photo-hero {
+  border-radius: 12px;
+}
 
 /* FEATURES */
 .features-icon {
