@@ -146,7 +146,7 @@ img {
 }
 
 .chair {
-  box-shadow: 5px 5px 10px 10px #797d7f;
+  box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.146);
 }
 
 h3 {
