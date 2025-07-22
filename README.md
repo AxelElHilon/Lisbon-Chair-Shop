@@ -2,3 +2,5 @@
 
 In this project, I will use flexbox and grid for page layout, 
 and I will also learn design fundamentals.
+
+I finished this page, where I learned good practices in web page design, all in the Udemy course.
